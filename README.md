@@ -1,8 +1,8 @@
 # Supabase CSA Labs
 
-Hands-on Supabase projects for Customer Solutions Architect interview preparation. Build one lab at a time, inspect the database decisions, and verify the behavior.
+Hands-on Supabase projects exploring database design, authentication, authorization, realtime systems, storage, and AI applications.
 
-This is an independent practice repository. The source examples linked below are maintained in the official Supabase repository; this repository is not affiliated with Supabase.
+This is an independent collection of projects. The source examples linked below are maintained in the official Supabase repository; this repository is not affiliated with Supabase.
 
 ## Current state
 
@@ -32,8 +32,6 @@ Specific examples for the collection links will be selected when their lab begin
 3. Build in small steps, discussing the relevant database decisions as we go.
 4. Verify the behavior with repeatable checks.
 5. Record setup commands, design choices, test results, and cleanup instructions in that lab's README.
-
-Use agents for implementation support while practicing independent explanations of the resulting architecture. Track concepts demonstrated independently, concepts requiring prompts, and remaining practice gaps after each lab.
 
 ## Public repository boundaries
 
