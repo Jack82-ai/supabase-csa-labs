@@ -6,15 +6,15 @@ This is an independent collection of projects. The source examples linked below 
 
 ## Current state
 
-Repository initialized. No applications have been built or tested yet. Start with lab 01.
+Lab 01 has a working local chat application and recorded manual checks for RLS, Realtime, private membership, indexes, and SQL pagination. See its [setup, evidence, and limitations](labs/01-team-chat/README.md). Other labs remain planned.
 
 ## Labs
 
-Each project will live in its own numbered directory as we build it. Links are references, not copies of upstream code.
+Each project will live in its own numbered directory as we build it. Lab 01 includes an attributed upstream example; the remaining links are references.
 
 | Lab | Project | Official source | Status |
 | --- | --- | --- | --- |
-| 01 | Team messaging / Slack clone | [Next.js Slack clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) | Planned — first lab |
+| 01 | Team messaging / Slack clone | [Next.js Slack clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) | Core exercises verified manually; setup and SQL checks packaged |
 | 02 | User management | [Examples](https://github.com/supabase/supabase/tree/master/examples/user-management) | Planned |
 | 03 | Employee database | [Example](https://github.com/supabase/supabase/tree/master/examples/database/employees) | Planned |
 | 04 | File storage | [Examples](https://github.com/supabase/supabase/tree/master/examples/storage) | Planned |
